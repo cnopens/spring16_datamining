@@ -1,76 +1,91 @@
 PROJECT TITLE
+ORGANIZING USER SEARCH HISTORY
 =============
 
 # OVERVIEW
-In this section describe the background for your application or analysis.  Be detailed enough to provide the 
 
-- motivation,
-- background literature,
-- basic problem that is being solved,
-- expected improvement your application will achieve, OR
-- expected outcomes of your analyis.
+- motivation: Users are increasingly pursuing complex task-oriented goals on the Web, such as making travel arrangements, managing finances or planning purchases. To this end, they usually break down the tasks into a few co-dependent steps and issue multiple queries around these steps repeatedly over long periods of time.To better support users in their long-term information quests on the Web, search engines keep track of their queries and clicks while searching online. In this paper, we study the problem of organizing a user’s historical queries into groups in a dynamic and automated fashion. Automatically identifying query groups is helpful for a number of different search engine components and applications, such as query suggestions, result ranking, query alterations, sessionization, and collaborative search
+
+
+- background literature: 1.	We will focus on evaluating the effectiveness of the proposed algorithms in capturing query relevance.
+2.	Relevance Measure
+3.	Online query grouping process
+4.	 Similarity function
+
+- basic problem that is being solved: Reduces the searching time for the user and provides more convinience. 
+
+
+- expected outcomes of your analyis: maintains the user frequiently used data in the database and provides in advance whenever the user clicks about a particular.
+
 
 # DATA
-In this section describe the data being used in your application or analysis.  You should include all details of:
 
-- the source of the data and where to obtain it,
-- the API (if any) used to obtain the data (e.g. Twitter API)
-- the original form of the data (web, csv, etc.),
-- the languages, tools and libraries used to process the data (web scraping tools, Python, CSV libraries, etc.),
-- any subsetting of the data used in your project if the full dataset was not used.
 
-All data must be openly available (or obtained from public/open systems).  You may use an API to obtain data if the API is free and/or the account to access it is free.
+- The references we have are : 
+1. J. Han and M. Kamber, “Data Mining: Concepts
+and Techniques”,Morgan Kaufmann, 2000.
+2. A. Broder, “A taxonomy of web search,” SIGIR
+Forum, 2002.
+3. A. Spink, M. Park, B. J. Jansen, and J. Pedersen,
+“Multitasking during Web search sessions”,
+Information Processing and Management, 2006.
+4. Heasoo Hwang, Hady W. Lauw, Lise Getoor and
+Alexandros Ntoulas,” Organizing User Search
+Histories”,in conf. IEEE Transactions on Knowledge
+and Data Engineering,2012. 
 
+- the API used to obtain the data : JavaScript.
+
+- the original form of the data : web
+
+- the languages, tools and libraries used to process the data:
+Front end              : HTML, Java, JSP,AJAX
+Scripts                : Java Script.
+Server side Script     :   Java Server Pages.
+-
 
 # RESEARCH QUESTIONS
-Describe the core questions you will be pursuing within the project.  These questions will lead the reader to your interest in the data and provide the bridge between your motivation and analysis.  
+
+1. whenever a person wants to browse for something in a hurry, he don't want to want his time in searching and making entire process again and again.In such situations the person gets irritated. Our aim is to provide flexibility for the user at all situations.
+
 
 
 # MODELS AND ANALYSIS
 
-What models did you use to process your data and perform the analysis of your research questions?  
 
-Describe your methods and how you applied your models to the data.  
+Models and Methods we applied: Generaly we have three modules
+1.	Query Group- By this module we find the querries given by the users.
+2.	Search history-By this module we always make corresponding search for the data in the history.
+3.	Query Relevance and Search logs-Through this module we provide the relavance data very quick to the user.
+
 
 
 # CODE AND APPLICATION
 
-For your application you will be writing code.  Please make sure your group:
+Codes used: HTML, Java, JSP,AJAX
+Application: In search engines.
 
-- provides the Github link to your code,
-- provides detailed instructions on how to compile and deploy your code,
-- provides any special instructions for running your code and/or applying data to see the results.
-
-The code needs to be Github and instructions on installation are in the README.md file at the root level.
 
 # PROJECT MANAGEMENT
 
-You will need to provide details on:
 
-- the team members,
-- the roles of each member,
-- the skills and contributions of each member.
+-Team members:
+1.Anitha Rani Suram
+2.Praveen Chowdary Kommalapati
+3.Sudhir Pallikonda
 
-You will also provide details about the project deliverables and milestones.  These example tables should be used as a guide.
+- the roles of each member
+1.Anitha Rani Suram : Team Leader
+2.Praveen Chowdary : Team member
+3.Sudhir pallikonda : Team member
 
-# PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
-These tables show  examples of the data that should go into each column and row.
+
+- the skills and contributions of each member
+1.Anitha Rani Suram : Coding, Developing,  good Communication and contributes 40 percent in project.
+2.Praveen Chowdary Kommalapati: Coding, Developing,  good Communication and contributes 30 percent in project.
+3.Sudhir Pallikonda:Coding, Developing,  good Communication and contributes 30 percent in project
 
 
-## TEAM
+#Team
 
-| Team member | Roles and skills | Contributions |
-|-------------|-------------------------|---------------------------------------------|
-| MEMBER NAME | What will they do in the project?  What skills do they bring?  What interests will they explore? | Fill the contributions in when the deliverables have been completed and you have results to report.  These can be summarized, but the intent is that this will allow an easy way to see who did what. |
-| MEMBER #2 NAME | -- | -- |
-| MEMBER # _N_ NAME | -- | -- |
-
-## DELIVERABLES AND CHECKPOINTS
-
-The deliverable and checkpoints will be iteratively completed.  At the end of the project, there should be a fair amount of content these tables that details the who, what and when of your project.  Don't worry if you don't have all the deliverables sketched out -- this is a LIVING table, and should be updated frequently by all team members involved in the project.
-
-| Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
-|---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|WHEN | What will be delivered?  These should be small enough tasks to complete in the time given and large enough to represent some complexity. | Who will delivery this?    | WHAT WERE THE RESULTS?  FILL THIS IN AFTER THE CHECKPOINT HAS PASSED! |
-|     ...          | -- | --                    |  -- |
-
+Team number: 13
