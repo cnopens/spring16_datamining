@@ -9,6 +9,10 @@ This is the main repository for the Spring 2016 Data Mining course.  It will be 
 
 ## Papers
 
+Zhang, L., Luo, P., Tang, L., Chen, E., Liu, Q., Wang, M., & Xiong, H. (2015). Occupancy-Based Frequent Pattern Mining*. ACM Transactions on Knowledge Discovery from Data (TKDD), 10(2), 14. doi: [10.1145/2753765](http://dx.doi.org/10.1145/2753765)
+
+Ipeirotis, P. G., Provost, F., Sheng, V. S., & Wang, J. (2014). Repeated labeling using multiple noisy labelers. Data Mining and Knowledge Discovery, 28(2), 402-441.doi: [10.1007/s10618-013-0306-1](http://dx.doi.org/10.1007/s10618-013-0306-1)
+
 
 Feng Chen, Pan Deng, Jiafu Wan, Daqiang Zhang, Athanasios V. Vasilakos, and Xiaohui Rong, Data Mining for the Internet of Things: Literature Review and Challenges, International Journal of Distributed Sensor Networks, vol. 2015, Article ID 431047, 14 pages, 2015. doi:[10.1155/2015/431047](http://www.hindawi.com/journals/ijdsn/2015/431047/
 )
@@ -30,9 +34,14 @@ Ramírez, J., Górriz, J. M., Salas-Gonzalez, D., Romero, A., López, M., Álvar
 
 Liao, W., Shah, S., & Makrehchi, M. (2014, March). Winning by Following the Winners: Mining the Behaviour of Stock Market Experts in Social Media. In Social Computing, Behavioral-Cultural Modeling and Prediction: 7th International Conference, SBP 2014, Washington, DC, USA, April 1-4, 2014. Proceedings (Vol. 8393, p. 103). Springer. doi:[10.1007/978-3-319-05579-4](http://link.springer.com/book/10.1007/978-3-319-05579-4#page=114)
 
+
 ## Videos
 
 ## Podcasts
+*Linear Digressions Podcast: Text Analytics on the State of the Union
+2/25/16*
+[Listen](http://podplayer.net/#/?id=12478161)
+
 *Turning big data into actionable insights* The O’Reilly Data Show podcast: Evangelos Simoudis on data mining, investing in data startups, and corporate innovation. [Listen](http://radar.oreilly.com/2015/10/turning-big-data-into-actionable-insights.html)
 
 *BIG DATA DOESN'T EXIST* Data Skeptic Podcast [Listen](http://dataskeptic.com/epnotes/big-data-doesnt-exist.php)
@@ -49,6 +58,9 @@ Liao, W., Shah, S., & Makrehchi, M. (2014, March). Winning by Following the Winn
 
 [FiveThirtyEight](http://fivethirtyeight.com/) is a really excellent example of how data is being consistently used to make informed decisions. [The FiveThirtyEight Github Repo](https://github.com/fivethirtyeight) is also well worth exploring and an example of how to keep data and analysis transparent and open.
 
+[FUN] Small-scale analysis of car parking data via lrei on Github:
+[https://github.com/lrei/carpark_prediction](https://github.com/lrei/carpark_prediction)
 
-
-
+[Jake Vanderplas's](https://jakevdp.github.io) interesting analysis of bicycle racing data that is well worth taking a look at:
+[https://jakevdp.github.io/blog/2015/10/17/analyzing-pronto-cycleshare-data-with-python-and-pandas/](https://jakevdp.github.io/blog/2015/10/17/analyzing-pronto-cycleshare-data-with-python-and-pandas/
+)
