@@ -9,11 +9,6 @@ This is the main repository for the Spring 2016 Data Mining course.  It will be 
 
 ## Papers
 
-Zhang, L., Luo, P., Tang, L., Chen, E., Liu, Q., Wang, M., & Xiong, H. (2015). Occupancy-Based Frequent Pattern Mining*. ACM Transactions on Knowledge Discovery from Data (TKDD), 10(2), 14. doi: [10.1145/2753765](http://dx.doi.org/10.1145/2753765)
-
-Ipeirotis, P. G., Provost, F., Sheng, V. S., & Wang, J. (2014). Repeated labeling using multiple noisy labelers. Data Mining and Knowledge Discovery, 28(2), 402-441.doi: [10.1007/s10618-013-0306-1](http://dx.doi.org/10.1007/s10618-013-0306-1)
-
-
 Feng Chen, Pan Deng, Jiafu Wan, Daqiang Zhang, Athanasios V. Vasilakos, and Xiaohui Rong, Data Mining for the Internet of Things: Literature Review and Challenges, International Journal of Distributed Sensor Networks, vol. 2015, Article ID 431047, 14 pages, 2015. doi:[10.1155/2015/431047](http://www.hindawi.com/journals/ijdsn/2015/431047/
 )
 
