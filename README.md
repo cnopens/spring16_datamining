@@ -57,7 +57,7 @@ Ipeirotis, P. G., Provost, F., Sheng, V. S., & Wang, J. (2014). Repeated labelin
 
 [FiveThirtyEight](http://fivethirtyeight.com/) is a really excellent example of how data is being consistently used to make informed decisions. [The FiveThirtyEight Github Repo](https://github.com/fivethirtyeight) is also well worth exploring and an example of how to keep data and analysis transparent and open.
 
-[FUN] Small-scale analysis of car parking data via lrei on Github:
+[FUN] Small-scale analysis of car parking data via [Luis Rei](https://github.com/lrei) on Github:
 [https://github.com/lrei/carpark_prediction](https://github.com/lrei/carpark_prediction)
 
 [Jake Vanderplas's](https://jakevdp.github.io) interesting analysis of bicycle racing data that is well worth taking a look at:
