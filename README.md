@@ -34,20 +34,24 @@ Ramírez, J., Górriz, J. M., Salas-Gonzalez, D., Romero, A., López, M., Álvar
 
 Liao, W., Shah, S., & Makrehchi, M. (2014, March). Winning by Following the Winners: Mining the Behaviour of Stock Market Experts in Social Media. In Social Computing, Behavioral-Cultural Modeling and Prediction: 7th International Conference, SBP 2014, Washington, DC, USA, April 1-4, 2014. Proceedings (Vol. 8393, p. 103). Springer. doi:[10.1007/978-3-319-05579-4](http://link.springer.com/book/10.1007/978-3-319-05579-4#page=114)
 
+Zhang, L., Luo, P., Tang, L., Chen, E., Liu, Q., Wang, M., & Xiong, H. (2015). Occupancy-Based Frequent Pattern Mining*. ACM Transactions on Knowledge Discovery from Data (TKDD), 10(2), 14. doi:[10.1145/2753765](http://dx.doi.org/10.1145/2753765)
+
+Ipeirotis, P. G., Provost, F., Sheng, V. S., & Wang, J. (2014). Repeated labeling using multiple noisy labelers. Data Mining and Knowledge Discovery, 28(2), 402-441. doi: [10.1007/s10618-013-0306-1](http://dx.doi.org/10.1007/s10618-013-0306-1)
+
 
 ## Videos
 
 ## Podcasts
-*Linear Digressions Podcast: Text Analytics on the State of the Union
-2/25/16*
-[Listen](http://podplayer.net/#/?id=12478161)
-
-*Turning big data into actionable insights* The O’Reilly Data Show podcast: Evangelos Simoudis on data mining, investing in data startups, and corporate innovation. [Listen](http://radar.oreilly.com/2015/10/turning-big-data-into-actionable-insights.html)
 
 *BIG DATA DOESN'T EXIST* Data Skeptic Podcast [Listen](http://dataskeptic.com/epnotes/big-data-doesnt-exist.php)
 
-*“I Quant NY” Finding Surprising Stories in NYC Open Data with Ben Wellington* Data Stories Podcast #66 [Listen](http://datastori.es/66-iquantnyc/)
-
+| Podcast | Episode / Date |  Notes |
+|---------|----------------|--------|
+|   The O’Reilly Data Show podcast      | [*Turning big data into actionable insights* : Evangelos Simoudis on data mining, investing in data startups, and corporate innovation](http://radar.oreilly.com/2015/10/turning-big-data-into-actionable-insights.html)         |
+|   Data Skeptic Podcast      |  [*BIG DATA DOESN'T EXIST*](http://dataskeptic.com/epnotes/big-data-doesnt-exist.php)     |       |
+|    Data Stories Podcast #66     | [*“I Quant NY” Finding Surprising Stories in NYC Open Data with Ben Wellington*](http://datastori.es/66-iquantnyc/) |       |
+| Linear Digressions Podcast | [Great Social Networks in History Linear Digressions Podcast](https://soundcloud.com/linear-digressions/great-social-networks-in-history?in=linear-digressions/sets/linear-digressions) / Jan-31-2016 | |
+| Linear Digressions Podcast | [*Text Analytics on the State of the Union*](http://podplayer.net/#/?id=12478161)  / Feb-25-2016 | |
 
 ## Explorations
 
