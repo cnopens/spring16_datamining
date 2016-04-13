@@ -63,3 +63,6 @@ Ipeirotis, P. G., Provost, F., Sheng, V. S., & Wang, J. (2014). Repeated labelin
 [Jake Vanderplas's](https://jakevdp.github.io) interesting analysis of bicycle racing data that is well worth taking a look at:
 [https://jakevdp.github.io/blog/2015/10/17/analyzing-pronto-cycleshare-data-with-python-and-pandas/](https://jakevdp.github.io/blog/2015/10/17/analyzing-pronto-cycleshare-data-with-python-and-pandas/
 )
+
+# Group Projects
+Links to group projects.
