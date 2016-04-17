@@ -74,3 +74,12 @@ The deliverable and checkpoints will be iteratively completed.  At the end of th
 |WHEN | What will be delivered?  These should be small enough tasks to complete in the time given and large enough to represent some complexity. | Who will delivery this?    | WHAT WERE THE RESULTS?  FILL THIS IN AFTER THE CHECKPOINT HAS PASSED! |
 |     ...          | -- | --                    |  -- |
 
+# OUTCOMES
+Describe the outcomes of the project :
+
+* How well did your team coordinate well to accomplish the project goals?
+* Did the orginal project deliverables achieved?  If not, why?
+* Were your data mining outcomes a success?  Did you discover something new?  Describe if you have new code, insights or contributions to make to the community-at-large.  If you have shared these outcomes, describe the reactions of those you shared it with.
+* If your outcomes were not sucessful, did you explore alternatives?  Offer up an explanation as to why you were not successful and make the explanation reasonable and clear.
+
+
